@@ -11,7 +11,7 @@ const App = () => {
         <ContactForm />
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default App;
